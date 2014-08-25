@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Holo">
+        <item name="customViewWithAttrStyle">@style/CustomViewStyle</item>
+    </style>
+
+    <style name="CustomViewStyle">
+        <item name="customAttr">customValue</item>
+    </style>
+</resources>
