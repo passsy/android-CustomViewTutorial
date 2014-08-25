@@ -1,13 +1,17 @@
 # CustomView Tutorial Snippets
 
-A little sample project for with snippets for building Android Custom Views
+A little sample project with snippets to build useful and reusable Android Custom Views
 
-Build for a presentation about Android Custom Views: https://docs.google.com/presentation/d/1dYjjIx18l4UgwYj3nz59i7DmKbh8jcvmMXp5PoMqrG8/edit?usp=sharing
+Build for a presentation about [Building Android Custom Views](https://docs.google.com/presentation/d/1dYjjIx18l4UgwYj3nz59i7DmKbh8jcvmMXp5PoMqrG8/edit?usp=sharing):
+
+[![Imgur](http://i.imgur.com/D2NbX53.png)](https://docs.google.com/presentation/d/1dYjjIx18l4UgwYj3nz59i7DmKbh8jcvmMXp5PoMqrG8/edit?usp=sharing)
+
+
 
 
 ## License
 
-    Copyright 2013 Pascal Welsch
+    Copyright 2014 Pascal Welsch
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -22,4 +26,4 @@ Build for a presentation about Android Custom Views: https://docs.google.com/pre
     limitations under the License.
     
 
-Author: [Pascal Welsch](https://plus.google.com/108162731626734859070?rel=author)
+Author: [Pascal Welsch](http://google.com/+pascalwelsch?rel=author)
